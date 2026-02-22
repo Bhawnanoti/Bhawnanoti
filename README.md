@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Bhawna
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=32&duration=2000&pause=1500&color=A26769&center=true&vCenter=true&width=750&lines=Welcome+to+my+Profile;Breaking+Systems+to+Build+Better+Ones&delete=1&repeat=false" />
+</p>
 
+<img src="https://komarev.com/ghpvc/?username=bhawnanoti&label=Visitors&color=8E5A63&style=flat-square" />
 I build things where **code meets curiosity**
 
 ## About Me
