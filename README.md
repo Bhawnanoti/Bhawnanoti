@@ -30,7 +30,7 @@ I build things where **code meets curiosity**
 ## 🔗 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/bhawnanoti/
 - **LeetCode:** https://leetcode.com/u/not_bhawna/
-- **Codeforces:** https://codeforces.com/profile/bhawnanoti
+- **Codeforces:** https://codeforces.com/profile/notbhawna
 - **Kaggle:** https://www.kaggle.com/notbhawna
 
 ## 🤝 Let’s Build
