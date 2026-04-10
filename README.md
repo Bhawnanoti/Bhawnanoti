@@ -5,40 +5,46 @@
 
 <img src="https://komarev.com/ghpvc/?username=bhawnanoti&label=Visitors&color=8E5A63&style=flat-square" />
 
-I build things where **code meets curiosity**
+I'm an open source contributor with a keen interest in Machine Learning and AI. I enjoy building things that are useful, learning in public, and contributing to projects that matter.
+
+Currently exploring the intersection of intelligent systems and real-world applications — from training models to deploying them.
+
+---
 
 ## About Me
-- Computer Science Engineering student  
-- Interested in **systems, algorithms, AI/ML, and simulations**
-- Love breaking problems down until they confess
-- Currently learning optimization, ML models, and large-scale systems
-- Belief: *Clean logic > clever hacks*
 
-## Tech Stack
-- **Languages:** Java, C++, Python  
-- **Frameworks & Tools:** React, Django, Flask  
-- **Data & ML:** NumPy, Pandas, PyTorch  
-- **Databases:** MySQL, PostgreSQL  
-- **Dev Tools:** Git, GitHub, Docker, Linux  
+- 🔭 &nbsp; Contributing to open source projects in ML/AI space
+- 🌱 &nbsp; Continuously learning — currently diving deeper into deep learning and MLOps
+- 💬 &nbsp; Ask me about Python, ML pipelines, or anything backend
 
-## Current Focus
-- Agent-Based Modeling
-- Optimization algorithms (ACO, GA, PSO, hybrids)
-- ML fundamentals → applied intelligence
-- Writing code that’s readable
+---
 
-## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/bhawnanoti/
-- **LeetCode:** https://leetcode.com/u/not_bhawna/
-- **Codeforces:** https://codeforces.com/profile/notbhawna
-- **Kaggle:** https://www.kaggle.com/notbhawna
+## Skills
 
-## 🤝 Let’s Build
-If you like:
-- thoughtful code  
-- structured chaos  
-- or building things that actually *mean* something  
+**Languages**
+Python · Java · C++
 
-Let's break a *good system* and make it a *better system*
+**Frameworks & Libraries**
+React · Django · Flask · Scikit-learn · TensorFlow · Pandas · NumPy
 
-> *“First make it work. Then make it right. Then make it fast.”* and don’t forget to make it beautiful.
+**Data & ML**
+Data Preprocessing · Model Training · EDA · Feature Engineering · Matplotlib · Seaborn
+
+**Databases**
+MySQL · PostgreSQL · MongoDB · SQLite
+
+**Dev Tools**
+Git · GitHub · Docker · Linux · VS Code · Postman · Jupyter
+
+---
+
+## Find Me On
+
+- [LinkedIn](https://www.linkedin.com/in/bhawnanoti/)
+- [LeetCode](https://leetcode.com/u/not_bhawna/)
+- [Codeforces](https://codeforces.com/profile/notbhawna)
+- [Kaggle](https://www.kaggle.com/notbhawna)
+
+---
+
+*"Build things. Break things. Learn. Repeat."*
